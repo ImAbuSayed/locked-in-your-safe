@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Locked In Your Safe
+
+This log tracks the cryptographic history and versioning for the song **Locked In Your Safe** (locked-in-your-safe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T05:04:34.891207 | `v1` | `caaa78afb2f2db93463edf399fbc726c0e143dc04869f7ac58181520d96cde9e` | `5757feaa593985c72d5a6e9f0b56dcc963e41772ecee74e18cf894030375cee6` | `2026-06-11_locked-in-your-safe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
