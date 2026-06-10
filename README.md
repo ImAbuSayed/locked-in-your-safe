@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/locked-in-your-safe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Locked In Your Safe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-your-safe/) |
+| **Get License** | [Request Licensing for Locked In Your Safe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-your-safe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got my heart locked away in your safe
+> Taking my time while I’m learning your space
+> Shadows are falling, we’re out of the rain
+> Keeping you close like a steady refrain
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
